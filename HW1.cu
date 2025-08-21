@@ -2,7 +2,7 @@
 // Vector addition on the CPU, with timer and error checking
 // To compile: nvcc HW1.cu -o temp
 /*
- What was done:
+ What to do:
  1. Understand every line of code and be able to explain it in class.
  2. Compile, run, and play around with the code.
  3. Also play around with the Pointerstest.cu code to understand pointers.  
